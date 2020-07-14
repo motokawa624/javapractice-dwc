@@ -182,3 +182,33 @@ Binding(COMMAND+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-13 19:57:09.636
 !MESSAGE executing callback sts4.classpath.CPSvAABK SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-14 15:46:28.782
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-14 15:46:28.783
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-14 15:46:28.784
+!MESSAGE buffering callback sts4.classpath.CPSvAABK Chapter04.java false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-14 15:46:28.784
+!MESSAGE executing callback sts4.classpath.CPSvAABK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-14 15:46:28.788
+!MESSAGE executing callback sts4.classpath.CPSvAABK SUCCESS [終了しました]
+
+!ENTRY org.eclipse.ui 2 2 2020-07-14 15:46:51.637
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-14 15:46:58.378
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-14 15:46:58.379
+!MESSAGE buffering callback sts4.classpath.CPSvAABK Chapter04.java true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-14 15:46:58.379
+!MESSAGE executing callback sts4.classpath.CPSvAABK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-14 15:46:58.382
+!MESSAGE executing callback sts4.classpath.CPSvAABK SUCCESS [終了しました]
