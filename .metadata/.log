@@ -846,3 +846,24 @@ java.lang.IllegalArgumentException
 	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:175)
 	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$3.run(SelectionListenerWithASTManager.java:160)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.ui 2 2 2020-07-17 16:13:28.083
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY mergedoc.encoding 2 0 2020-07-17 16:17:38.415
+!MESSAGE リソース '/JavaWcp/src/classMethod/human/Human02.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-07-17 16:17:38.415
+!MESSAGE リソース '/JavaWcp/src/classMethod/human/Human02.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-07-17 16:17:38.418
+!MESSAGE リソース '/JavaWcp/src/classMethod/human/Human02.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-07-17 16:17:38.420
+!MESSAGE リソース '/JavaWcp/src/classMethod/human/Human02.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-07-17 16:17:38.433
+!MESSAGE リソース '/JavaWcp/src/classMethod/human/Human02.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2020-07-17 16:17:38.433
+!MESSAGE リソース '/JavaWcp/src/classMethod/human/Human02.java' が存在しません。
